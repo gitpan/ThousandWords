@@ -1,0 +1,11 @@
+<SOFTPKG NAME="ThousandWords" VERSION="0,05,0,0">
+	<TITLE>ThousandWords</TITLE>
+	<ABSTRACT>Make a GD-image to a HTML formatted text</ABSTRACT>
+	<AUTHOR>Henning Michael Moeller-Nielsen (henning@rto.dk)</AUTHOR>
+	<IMPLEMENTATION>
+		<DEPENDENCY NAME="GD" VERSION="1,23,0,0" />
+		<OS NAME="MSWin32" />
+		<ARCHITECTURE NAME="MSWin32-x86-object" />
+		<CODEBASE HREF="x86/ThousandWords_0.05.tar.gz" />
+	</IMPLEMENTATION>
+</SOFTPKG>
